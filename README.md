@@ -1,4 +1,5 @@
-# ML-exercises-via-Andrew-Ng
+# ML-notes-exercises-via-Andrew-Ng
+The note document of CS229 one-by-one class. (not finished yet.)
 The solutions to the exercises done during Machine Learning course by Andrew Ng on Coursera.
 
 These are in programming language Octave/MATLAB.
@@ -13,6 +14,22 @@ These are in programming language Octave/MATLAB.
 ## Repository Tree (after)
 ```bash
 .
+├── ex_extra
+│   ├── ex3_apply it!
+│   │   ├── displayData.m
+│   │   ├── give_prediction.m
+│   │   ├── handwritting_numbers.mat
+│   │   ├── predictOneVsAll.m
+│   │   ├── sigmoid.m
+│   │   └── trained_para400.mat
+│   ├── ex1_ReadMe.txt
+│   ├── ex2_ReadMe.txt
+│   ├── ex3_ReadMe.txt
+│   ├── ex4_ReadMe.txt
+│   ├── ex5_ReadMe.txt
+│   ├── ex6_ReadMe.txt
+│   ├── ex7_ReadMe.txt (*)
+│   └── ex8_ReadMe.txt (*)
 ├── machine-learning-ex1
 │   ├── ex1
 │   │   ├── computeCost.m
@@ -176,22 +193,6 @@ These are in programming language Octave/MATLAB.
 │   │   ├── token.mat
 │   │   └── visualizeFit.m
 │   └── ex8.pdf
-├── ex_extra
-│   ├── ex3_apply it!
-│   │   ├── displayData.m
-│   │   ├── give_prediction.m
-│   │   ├── handwritting_numbers.mat
-│   │   ├── predictOneVsAll.m
-│   │   ├── sigmoid.m
-│   │   └── trained_para400.mat
-│   ├── ex1_ReadMe.txt
-│   ├── ex2_ReadMe.txt
-│   ├── ex3_ReadMe.txt
-│   ├── ex4_ReadMe.txt
-│   ├── ex5_ReadMe.txt
-│   ├── ex6_ReadMe.txt
-│   ├── ex7_ReadMe.txt (*)
-│   └── ex8_ReadMe.txt (*)
 └── README.md
 ```
 PS: (*) mark means profile is not finished right now, will be updated continuously.
