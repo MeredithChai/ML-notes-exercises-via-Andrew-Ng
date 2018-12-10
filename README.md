@@ -1,5 +1,6 @@
 # ML-notes-exercises-via-Andrew-Ng
 The note document of CS229 one-by-one class. (not finished yet.)
+
 The solutions to the exercises done during Machine Learning course by Andrew Ng on Coursera.
 
 These are in programming language Octave/MATLAB.
@@ -14,6 +15,7 @@ These are in programming language Octave/MATLAB.
 ## Repository Tree (after)
 ```bash
 .
+├── CS229_SupervisedLearning_and_LearningTheory.docx
 ├── ex_extra
 │   ├── ex3_apply it!
 │   │   ├── displayData.m
